@@ -16,11 +16,11 @@ To optimize the hyperparameters of CTM-Neg and to compare its performance with t
 Two notebooks are provided in the **examples** directory. First one is to run the hyperparameter optimization for CTM-Neg, which also generates the experimental results with the optimized hyperparameters, and the second one is to run some existing topic models to compare the results.
 
 .. |colab1| image:: https://colab.research.google.com/assets/colab-badge.svg
-    :target: 
+    :target: https://colab.research.google.com/github/AdhyaSuman/CTMNeg/blob/master/examples/HyperparameterOptimization_CTM_neg.ipynb
     :alt: Open In Colab
 
 .. |colab2| image:: https://colab.research.google.com/assets/colab-badge.svg
-    :target: 
+    :target: https://colab.research.google.com/github/AdhyaSuman/CTMNeg/blob/master/examples/QuantitativeEvaluation.ipynb
     :alt: Open In Colab
 
     
