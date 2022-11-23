@@ -28,7 +28,7 @@ Two notebooks are provided in the **examples** directory. First one is to run th
 +--------------------------------------------------------------------------------+------------------+
 | Name                                                                           | Link             |
 +================================================================================+==================+
-| Hyperparameter optimization and result generation for CTMNeg                  | |colab1|         |
+| Hyperparameter optimization and result generation for CTMNeg                   | |colab1|         |
 +--------------------------------------------------------------------------------+------------------+
 | Getting results of some existing topic models for comparison                   | |colab2|         |
 +--------------------------------------------------------------------------------+------------------+
