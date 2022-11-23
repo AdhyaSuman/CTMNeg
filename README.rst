@@ -42,4 +42,4 @@ If you find this useful you can cite the following paper :
 
 ::
 
-Suman Adhya, Avishek Lahiri, Debarshi Kumar Sanyal, and Partha Pratim Das. 2022. Improved Contextualized Topic Models with Negative Sampling. In Proceedings of the 19th International Conference on Natural Language Processing (ICON), Indraprastha Institute of Information Technology, Delhi, India. NLP Association of India (NLPAI).
+Suman Adhya, Avishek Lahiri, Debarshi Kumar Sanyal, and Partha Pratim Das. 2022. Improving Contextualized Topic Models with Negative Sampling. In Proceedings of the 19th International Conference on Natural Language Processing (ICON), Indraprastha Institute of Information Technology, Delhi, India. NLP Association of India (NLPAI).
