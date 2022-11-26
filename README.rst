@@ -23,8 +23,7 @@ Two notebooks are provided in the **examples** directory. First one is to run th
     :target: https://colab.research.google.com/github/AdhyaSuman/CTMNeg/blob/master/examples/QuantitativeEvaluation.ipynb
     :alt: Open In Colab
 
-    
-.. OCTIS_: https://github.com/MIND-Lab/OCTIS
+ 
 +--------------------------------------------------------------------------------+------------------+
 | Name                                                                           | Link             |
 +================================================================================+==================+
@@ -34,7 +33,7 @@ Two notebooks are provided in the **examples** directory. First one is to run th
 +--------------------------------------------------------------------------------+------------------+
 
 
-.. _OCTIS: https://github.com/audreyr/cookiecutter
+.. _OCTIS: https://github.com/MIND-Lab/OCTIS
 
 Citation
 --------
