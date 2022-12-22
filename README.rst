@@ -6,6 +6,10 @@ generated topics.  In particular, during model training, we perturb the generate
 
 .. _CTM: https://github.com/MilaNLProc/contextualized-topic-models
 
+.. image:: https://github.com/AdhyaSuman/CTMNeg/blob/master/misc/Arch_Final.png
+   :align: center
+   :width: 2000px
+
 Datasets
 --------
 Among the three datasets that we have used, **20NewsGroup (20NG)** and **M10** are available in OCTIS_. The another one dataset **GoogleNews (GN)** that we have used in the paper is added in the **preprocessed_datasets**.
