@@ -39,10 +39,46 @@ Two notebooks are provided in the **examples** directory. First one is to run th
 
 .. _OCTIS: https://github.com/MIND-Lab/OCTIS
 
-Citation
---------
-If you find this useful you can cite the following paper :
+How to cite this work?
+---------------------
+This work has been accepted at ICON (International Conference on Natural Language Processing) 2022!
+
+Read the paper:
+
+1. `ACL Anthology`_
+
+2. `arXiv`_
+
+If you decide to use this resource, please cite:
+
+.. _`ACL Anthology`: https://aclanthology.org/2022.icon-main.18/
+
+.. _`arXiv`: https://arxiv.org/abs/2303.14951
+
 
 ::
 
-Suman Adhya, Avishek Lahiri, Debarshi Kumar Sanyal, and Partha Pratim Das. 2022. Improving Contextualized Topic Models with Negative Sampling. In Proceedings of the 19th International Conference on Natural Language Processing (ICON), Indraprastha Institute of Information Technology, Delhi, India. NLP Association of India (NLPAI).
+    @inproceedings{adhya-etal-2022-improving,
+    title = "Improving Contextualized Topic Models with Negative Sampling",
+    author = "Adhya, Suman  and
+      Lahiri, Avishek  and
+      Kumar Sanyal, Debarshi  and
+      Pratim Das, Partha",
+    booktitle = "Proceedings of the 19th International Conference on Natural Language Processing (ICON)",
+    month = dec,
+    year = "2022",
+    address = "New Delhi, India",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.icon-main.18",
+    pages = "128--138",
+    abstract = "Topic modeling has emerged as a dominant method for exploring large document collections. Recent approaches to topic modeling use large contextualized language models and variational autoencoders. In this paper, we propose a negative sampling mechanism for a contextualized topic model to improve the quality of the generated topics. In particular, during model training, we perturb the generated document-topic vector and use a triplet loss to encourage the document reconstructed from the correct document-topic vector to be similar to the input document and dissimilar to the document reconstructed from the perturbed vector. Experiments for different topic counts on three publicly available benchmark datasets show that in most cases, our approach leads to an increase in topic coherence over that of the baselines. Our model also achieves very high topic diversity.",
+    }
+  
+
+Acknowledgment
+--------------
+All experiments are conducted using OCTIS_ which is an integrated framework for topic modeling.
+
+**OCTIS**: Silvia Terragni, Elisabetta Fersini, Bruno Giovanni Galuzzi, Pietro Tropeano, and Antonio Candelieri. (2021). `OCTIS: Comparing and Optimizing Topic models is Simple!`. EACL. https://www.aclweb.org/anthology/2021.eacl-demos.31/
+
+.. _OCTIS: https://github.com/MIND-Lab/OCTIS
